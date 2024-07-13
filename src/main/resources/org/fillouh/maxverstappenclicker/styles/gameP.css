@@ -1,0 +1,25 @@
+.main-panel{
+    -fx-background-color:linear-gradient(#223971,#121f45);
+}
+
+.play-btn{
+    -fx-background-color:linear-gradient(#cc1e4a,#cb2026);
+    -fx-width:400;
+    -fx-height:150;
+
+    -fx-text-fill:#ffc906;
+    -fx-font-family:"Tahoma";
+    -fx-font-size:45;
+    -fx-font-weight:bold;
+    -fx-cursor:hand;
+    -fx-background-radius:20px;
+
+}
+
+.crt{
+    -fx-text-fill:#cc1e4a;
+    -fx-font-family:"Tahoma";
+    -fx-font-size:20;
+    -fx-font-weight:bold;
+
+}
