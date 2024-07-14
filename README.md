@@ -7,10 +7,10 @@
 
 As a **frustrated Ferrari Fan** and a somewhat **creative programmer**, i've just created this simple Java clicker game based on Max Verstappen to relax myself after being brutally defeated by the latter on Sunday.
 
-* [Game Insights](## Game Insights:)
-* [Gameplay](### Gameplay:)
-* [Download](## Download:)
-* [Credits](## Credits:)
+* [Game Insights](#Game-Insights:)
+* [Gameplay](#Gameplay:)
+* [Download](#Download:)
+* [Credits](#Credits:)
 
 
 ## Game Insights:
@@ -21,7 +21,7 @@ As a **frustrated Ferrari Fan** and a somewhat **creative programmer**, i've jus
 </p>
 
 ### Gameplay:
-[Gameplay video]("./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4")
+[Gameplay video]("https://github.com/Fillouh/MaxVerstappenClicker/blob/main/src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4")
 
 To start clicking infinite Max Vestappen(s) you need to click on play button and to click repeatedly on the left/right mouse button. To quit and reset the game just click the "q" button.
 
