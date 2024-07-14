@@ -22,10 +22,9 @@ As a **frustrated Ferrari Fan** and a somewhat **creative programmer**, i've jus
 
 ### Gameplay:
 <div style="text-align: center;">
-  <a href="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4">
-    <img src="https://img.icons8.com/ios-filled/50/000000/play-button-circled.png" alt="Play Video">
-  </a>
-  <p><em>Clicca sull'icona per vedere il video</em></p>
+  <video width="600" height="700" controls>
+    <source src="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4" type="video/mp4">
+  </video>
 </div>
 
 
@@ -41,9 +40,10 @@ You can also launch this game on command-line with this line:
 
 ## Credits:
 The main game graphics are made by me but other game images and music are made by:
-*[Max Verstappen Icon](https://a.espncdn.com)
-*[TUTUTUTU MAX VERSTAPPEN from MichealTop](https://www.youtube.com/watch?v=q9Bv0B-wJ5s&pp=ygUVdHV0dXR1IG1heCB2ZXJzdGFwcGVu)
-*[Original Music by Carte Blanque & Maxx Power](https://www.youtube.com/watch?v=jG2AciJ3zHY&pp=ygUVdHV0dXR1IG1heCB2ZXJzdGFwcGVu)
+
+* [Max Verstappen Icon](https://a.espncdn.com)
+* [TUTUTUTU MAX VERSTAPPEN from MichealTop](https://www.youtube.com/watch?v=q9Bv0B-wJ5s&pp=ygUVdHV0dXR1IG1heCB2ZXJzdGFwcGVu)
+* [Original Music by Carte Blanque & Maxx Power](https://www.youtube.com/watch?v=jG2AciJ3zHY&pp=ygUVdHV0dXR1IG1heCB2ZXJzdGFwcGVu)
 
 Copyrigths belong to Max Verstappen and Redbull
 
