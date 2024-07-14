@@ -9,11 +9,18 @@ As a **frustrated Ferrari Fan** and a somewhat **creative programmer**, i've jus
 
 ## Game Insights:
 
-<div style="text-align: center;">
-  <h1>
-    <img src="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/main-menu.png" alt="Main Menu" style="vertical-align: middle;"> Main Menu
-  </h1>
-</div>
+### Main Menu:
+<p align="center">
+  <img src="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/max2.png" alt="Main Menu">
+</p>
+
+### Gameplay:
+<p align="center">
+  <a href="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4" target="_blank"> </a>
+</p>
+
+
+To start clicking infinite Max Vestappen(s) you need to click on play button and to click repeatedly on the left/right mouse button. To quit and reset the game just click the "q" button.
 
 
 
