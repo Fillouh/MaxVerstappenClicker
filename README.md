@@ -7,10 +7,10 @@
 
 As a **frustrated Ferrari Fan** and a somewhat **creative programmer**, i've just created this simple Java clicker game based on Max Verstappen to relax myself after being brutally defeated by the latter on Sunday.
 
-* [Game Insights](#game-insights-)
-* [Gameplay](#gameplay-)
-* [Download](#download-)
-* [Credits](#credits-)
+* [Game Insights]
+* [Gameplay]
+* [Download]
+* [Credits]
 
 
 ## Game Insights:
@@ -22,7 +22,7 @@ As a **frustrated Ferrari Fan** and a somewhat **creative programmer**, i've jus
 
 ### Gameplay:
 <div style="text-align: center;">
-  <a href="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4" target="_blank">
+  <a href="./src/main/resources/org/fillouh/maxverstappenclicker/git-documents/gameplay.mp4">
     <img src="https://img.icons8.com/ios-filled/50/000000/play-button-circled.png" alt="Play Video">
   </a>
   <p><em>Clicca sull'icona per vedere il video</em></p>
@@ -33,9 +33,19 @@ To start clicking infinite Max Vestappen(s) you need to click on play button and
 
 
 ## Download:
-To play this game on your device just download the jar file in the ***download section*** 
+To play this game on your device just download the jar file in the ***download section*** . Furthermore you need to have installed Java 17 or above.
+You can also launch this game on command-line with this line:
+
+```java -jar MaxVerstappenClicker-1.0-SNAPSHOT-all.jar```
 
 
 ## Credits:
-The main game graphics are made by me
+The main game graphics are made by me but other game images and music are made by:
+*[Max Verstappen Icon](https://a.espncdn.com)
+*[TUTUTUTU MAX VERSTAPPEN from MichealTop](https://www.youtube.com/watch?v=q9Bv0B-wJ5s&pp=ygUVdHV0dXR1IG1heCB2ZXJzdGFwcGVu)
+*[Original Music by Carte Blanque & Maxx Power](https://www.youtube.com/watch?v=jG2AciJ3zHY&pp=ygUVdHV0dXR1IG1heCB2ZXJzdGFwcGVu)
+
+Copyrigths belong to Max Verstappen and Redbull
+
+
 
